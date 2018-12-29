@@ -1,3 +1,3 @@
 # whereisalpha
 
-Hypothesizing, (back)Testing, and Executing Trading Ideas.  
+Backtesting alphas that Benjamin Graham would be proud of. 
